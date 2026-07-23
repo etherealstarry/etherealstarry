@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Jingwen Zhu 👋
 
-<!--
-**etherealstarry/etherealstarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. student in **Motor Neuroscience** @ Texas A&M University.  
+Former physical therapist. Building bridges between neural control of movement, rehabilitation, and computational thinking.
 
-Here are some ideas to get you started:
+### 🔬 What I'm doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Starting my Ph.D. in **Kinesiology (Motor Neuroscience)** — Fall 2026
+- 💼 Seeking **2027 summer internships** in health sensing, wearables, neuromodulation, and BCI
+- 📚 Self-studying CS, neuroscience, and everything in between
+
+### 📂 Featured Projects
+
+| Project | Description |
+|---|---|
+| [🏃 Motor Control Guide](https://github.com/etherealstarry/kinesiology-motor-control-guide) | Self-study roadmap for motor neuroscience & control |
+| [🩺 Rehab Self-Learning](https://github.com/etherealstarry/rehab-self-learning) | Systematic guide for rehabilitation medicine |
+| [🌿 TCM Self-Learning](https://github.com/etherealstarry/tcm-self-learning) | Traditional Chinese Medicine study resources |
+| [📋 Rehab Prescription Guide](https://github.com/etherealstarry/rehab-prescription-guide) | Clinical rehab prescription reference tool |
+
+### 🛠 Tech & Tools
+
+`Python` `MATLAB` `JavaScript` `HTML/CSS` `Git` `MkDocs`
+
+### 🎓 Background
+
+- **B.S. Rehabilitation Therapy** — Nanjing Medical University (2018–2022)
+- **Physical Therapist** — Jiangsu University Affiliated Hospital (2022–2026)
+- **Ph.D. Kinesiology** — Texas A&M University (2026–2031, expected)
+
+---
+
+*"The body moves. The brain decides. Let's figure out the rest."*
